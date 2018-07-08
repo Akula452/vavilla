@@ -11,6 +11,7 @@ public class LambdaFunctionHandler implements RequestHandler<String, String> {
 
         // TODO: implement your handler
         return "hello";
+        //test
     }
 
 }
